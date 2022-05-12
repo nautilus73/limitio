@@ -1,3 +1,3 @@
-module github.com/nanmu42/limitio
+module github.com/nautilus73/limitio
 
-go 1.16
+go 1.18
